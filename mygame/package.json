@@ -1,0 +1,14 @@
+{
+  "name": "mygame",
+  "scripts": {
+    "build": "esbuild --bundle src/main.js --outfile=www/main.js --minify",
+    "dev": "esbuild --bundle src/main.js --outfile=www/main.js --watch",
+    "bundle": "npm run build && mkdir -p dist && zip -r dist/game.zip www -x \"**/.DS_Store\""
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.9"
+  },
+  "dependencies": {
+    "kaboom": "^3000.1.17"
+  }
+}
