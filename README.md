@@ -1,4 +1,6 @@
-# flappy_bird# Flappy Bird - Kaboom.js
+<img src="./mygame/public/game.gif" alt="banner gif" width="1200" height="250">
+
+# 🦅 Sussy_Bird
 
 A simple Flappy Bird clone built with [Kaboom.js](https://kaboomjs.com/).  
 Features:
@@ -11,18 +13,12 @@ Features:
 
 ---
 
-## 🎮 Live Demo
-
-[Insert your Netlify or GitHub Pages link here]
-
----
-
 ## 🛠️ Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/AmanRai8/flappy_bird.git
+git clone https://github.com/AmanRai8/sussy_bird.git
 cd flappy-bird
 ```
 
